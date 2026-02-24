@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background: #f4f6f9;
+    background: #d6dbe0;
     max-width: 1100px;
     margin: auto;
     padding: 20px;
@@ -11,7 +11,7 @@ h1 {
 }
 
 .card {
-    background: white;
+    background: rgb(255, 255, 255);
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 4px 10px rgba(0,0,0,0.08);
@@ -21,6 +21,7 @@ h1 {
 input, select, button {
     padding: 8px;
     margin: 5px;
+    box-shadow: green;
 }
 
 button {
